@@ -4726,7 +4726,9 @@ small {
 
 .card .card-title {
   font-size: 24px;
-  font-weight: 300;
+  font-weight: 600;
+  
+
 }
 
 .card .card-title.activator {
@@ -4852,6 +4854,7 @@ small {
   left: 0;
   max-width: 100%;
   padding: 24px;
+
 }
 
 .card .card-content {
@@ -4862,6 +4865,7 @@ small {
 .card .card-content p {
   margin: 0;
   color: inherit;
+
 }
 
 .card .card-content .card-title {
@@ -8172,8 +8176,8 @@ input[type=range]:focus::-ms-fill-upper {
   width: 16px;
   margin: 0 12px;
   background-color: #e0e0e0;
-  -webkit-transition: background-color .3s;
-  transition: background-color .3s;
+  -webkit-transition: background-color .7s;
+  transition: background-color .7s;
   border-radius: 50%;
 }
 
