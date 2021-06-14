@@ -9410,8 +9410,3 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
   /*shape-rendering: crispEdges;*/
 }
 
-@media only screen and (max-width: 600px) {
-  .teste {
-    clear: both;
-  }
-}
